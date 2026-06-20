@@ -1,0 +1,5 @@
+grade = ("c","d","a","a","b","b","a")
+print(grade.count("a"))
+lis = list(grade)
+lis.sort()
+print(lis)
